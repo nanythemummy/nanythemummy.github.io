@@ -1,0 +1,10 @@
+#ignore jekyll stuff
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+#ignore bundler stuff
+.bundle/
+vendor/
