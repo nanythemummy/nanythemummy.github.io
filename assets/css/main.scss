@@ -11,23 +11,23 @@
    ========================================================================== */
 
 @mixin lightMode {
-    --bg_color: #eee;
+    --bg_color: rgb(184, 206, 183);
     --header_bg: #fafafa;
     --content_bg: #fff;
     --archive_font: #000;
     --archive_title: #46a891;
     --archive_title_hover: #87CDBD;
-    --name_font: #FFAA00;
+    --name_font: #b37a09;
     --job_font: #003845;
-    --nav_font: #8d7edc;
-    --nav_font_hover: #D4CEF2;
+    --nav_font: #3c854c;
+    --nav_font_hover: #28312a;
     --shadow_color: rgba(160, 160, 160, 0.05);
     --post_title: #003845;
     --post_date: #003845;
     --post_text: #4c4c4c;
     --post_h3: #4c4c4c;
-    --post_link: #46a891;
-    --post_link_hover: #87CDBD;
+    --post_link: #3c854c;
+    --post_link_hover: #182218;
     --inlinecode_text: #FFAA00;
     --blockquote: #333;
     --footer_font: #858585;
@@ -558,7 +558,7 @@ img {
 }
 
 .post_content {
-    font-size: 0.95rem;
+    font-size: 1rem;
     line-height: 1.5rem;
     color: var(--post_text);
 

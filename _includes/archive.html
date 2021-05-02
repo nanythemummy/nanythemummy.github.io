@@ -14,6 +14,9 @@
             {{ post.title | escape }}
           </a>
         </div>
+        <div class="archive_snipet">
+          {{ post.excerpt }}
+        </div>
       </li>
     {% endif %}
     {% endfor %}
@@ -44,6 +47,9 @@
         <a href='{{ post.url | relative_url }}'>
           {{ post.title | escape }}
         </a>
+      </div>
+      <div class="archive_snippet">
+        {{ post.excerpt }}
       </div>
     </li>
   </ul>
