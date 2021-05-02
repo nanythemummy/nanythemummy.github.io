@@ -6,7 +6,6 @@
 @import 'code_style';
 @import 'flexible';
 
-
 /* 0. Variables
    ========================================================================== */
 
@@ -712,4 +711,7 @@ img {
         text-decoration: none;
         color: var(--footer_font_a);
     }
+}
+.align-left{
+    text-align: left;
 }
