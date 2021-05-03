@@ -712,6 +712,9 @@ img {
         color: var(--footer_font_a);
     }
 }
-.align-left{
-    text-align: left;
+.left-aligned-picture{
+    margin-right: 5px;
+}
+.right-aligned-picture{
+    margin-left: 5px;
 }
