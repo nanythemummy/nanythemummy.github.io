@@ -4,7 +4,7 @@ categories: [Experimental Archeology]
 author: Kea
 ---
 <p>
-In this installment, I attempt to make some of the most and common basic pigments available to ancient artisans using colorful dirt, coffee filters, and various containers. 
+In this installment, I attempt to make some of the most common and basic pigments available to ancient artisans using colorful dirt, coffee filters, and various containers. 
 <!--more-->
 
 The Ancient Egyptians had a surprisingly limited color palette. The most common colors were red, yellow, black and white. Black came from soot and white usually came from chalk or gypsum.
@@ -30,7 +30,7 @@ Here, you can see the resulting pigments—the red is more pink than I would hav
 <img src="/assets/img/finished-pigments.jpg" align="left" class="left-aligned-picture" alt="Red Yellow and Whitish-Greenish in Jars">
 I don’t know what to make of the green. It looked very green on the ground, and almost white in suspension. Now it’s back to being a chalky green color. I have no idea what is in it—chemistry was never really my strong point. Maybe it is an iron containing compound, since I found it close to the red and the yellow.  Green Earth would be interesting and relevent to this because it started to replace synthetic Egyptian green on coffins after the Third Intermediate Period (Scott, 2016, p 196). The green it makes is more of an army green color than the lush blue-green of Egyptian Green. It will be interesting to see how my green looks on paper given that it was almost white when in solution.
 </p><p>
-Anyway, it’s been a while since I last updated this—I’ve been deep in dissertation land. However, I hope this little post at least gave you some pretty pictures to enjoy. 
+Anyway, it’s been a while since I last updated this—I’ve been deep in dissertation land. However, I hope this little post at least gave you some pretty pictures to enjoy. This is an easy project that is fun to do, and which you could probably do with kids if you have a good source of yellow and red ochres in your area.
 </p>
 <h3> Bibliography & Further Reading: </h3>
 <ul>
