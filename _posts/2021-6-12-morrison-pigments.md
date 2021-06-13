@@ -7,7 +7,7 @@ author: Kea
 In this installment, I attempt to make some of the most common and basic pigments available to ancient artisans using colorful dirt, coffee filters, and various containers. 
 <!--more-->
 
-The Ancient Egyptians had a surprisingly limited color palette. The most common colors were red, yellow, black and white. Black came from soot and white usually came from chalk or gypsum. (Scott 2016)
+The Ancient Egyptians had a surprisingly limited color palette. The most common colors were red, yellow, black and white. Black came from soot and white usually came from chalk or gypsum. (Scott 2016, Quirke and Lee 2000)
 </p><p>
 Blue and Green were usually variants on Egyptian blue. These were manufactured in a fairly labor intensive process. These colors along with the orangey-red Realgar and the sparkling yellow Orpiment would be considered “premium colors” in today’s parlance. (Cooney, 2007, 217) They were hard to get, and considering that the last two were arsenic sulphates and didn’t occur in the Nile valley, they were dangerous to get as well (Colinart 2001 discusses likeley sources for Orpiment)  
 </p><p>
@@ -39,6 +39,9 @@ Colinart, Sylvie, ‘Analysis of Inorganic Yellow Colour in Ancient Egyptian Pai
 </li>
 <li>
 Cooney, Kathlyn M., The Cost of Death, Egyptologische Uitgaven (Leiden: Nederlands Instituut voor het Nabije Oosten, 2007)
+</li>
+<li>
+Quirke, Stephen, and Lorna Lee, ‘Painting Materials’, in Ancient Egyptian Materials and Technology, ed. by Paul T. Nicholson and Ian Shaw (Cambridge ; New York: Cambridge University Press, 2000), pp. 104–21
 </li>
     <li>
 Scott, David A., ‘A Review of Ancient Egyptian Pigments and Cosmetics’, Studies in Conservation, 61.4 (2016), 185–202 <https://doi.org/10.1179/2047058414Y.0000000162>
