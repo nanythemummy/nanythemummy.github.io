@@ -51,4 +51,4 @@ Finally, I based this little experiment on this video on how to filter ochre pig
 <p>
 Alchemical Arts, Ochre Pigments | Part 1: Preparation of Earth Colours (Melbourne, Australia, 2014) <a href="https://youtu.be/LKGsQxv72AA"> https://youtu.be/LKGsQxv72AA</a> [accessed 1 November 2020]
 </p><h3>Hi, Dad!</h3>
-Also, a shoutout to my dad, who is always up for an adventure, even that turns out to be driving around and collecting dirt.
+Also, a shoutout to my dad, who is always up for an adventure, even if that adventure turns out to be driving around and collecting dirt.
