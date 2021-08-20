@@ -58,7 +58,7 @@ If the gods of computers are smiling upon you, you will get an RTI file which yo
 However, we can now say with certainty that GLE[...]  and BET[...] 1958. I think given the size of the stela, we can fill in the lacuna and say that at some point in 1958, GLEN or BETH wrote their names in the sidewalk with a stick, either out of mutual affection or out of wishful thinking. Maybe the moment was important in the later lives of the owners of the house, because the same section of pavement was saved and recycled when the sidewalk was destroyed at an indeterminate later date.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KiS0KtVK7ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p><p>
-Here's a screenshot if you really want to give it a close look.
+Here's a screenshot if you really want to give it a close look. Tune in next time if you want to learn the correct ritual words and objects to use in order to run RTIBuilder on a modern machine!
 <img src="/assets/img/simulated-raking.png" align="left" class="left-aligned-picture" alt="Raking light simulated on the paving stone.">
 <br>
 </p><p>
