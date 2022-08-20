@@ -1,5 +1,5 @@
 ---
-title: Running Omeka Locally
+title: Running Omeka on Your Own Computer
 categories: [Digital Humanities]
 author: Kea
 ---
